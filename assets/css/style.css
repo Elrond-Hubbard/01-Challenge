@@ -30,7 +30,7 @@ header h1 span {
 }
 
 /* Set position and font properties for navigation bar */
-header h2 {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -39,12 +39,12 @@ header h2 {
 }
 
 /* Set list type for links */
-header h2 ul {
+header nav ul {
     list-style-type: none;
 }
 
 /* Set display and position for links */
-header h2 ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
